@@ -1,0 +1,249 @@
+[
+  {
+    "field": "Artificial Intelligence",
+    "n_docs": 3033,
+    "n_topics_bertopic": 25,
+    "n_topics_lda": 25,
+    "bertopic_source": "stored_db",
+    "BERTopic": {
+      "NPMI": 0.0617,
+      "Diversity": 0.868,
+      "Coverage": 0.6986,
+      "Silhouette": -0.0554
+    },
+    "LDA": {
+      "NPMI": -0.0875,
+      "Diversity": 0.916,
+      "Coverage": 0.9984,
+      "Silhouette": 0.2238
+    }
+  },
+  {
+    "field": "Quantum Physics",
+    "n_docs": 2109,
+    "n_topics_bertopic": 6,
+    "n_topics_lda": 6,
+    "bertopic_source": "stored_db",
+    "BERTopic": {
+      "NPMI": 0.0108,
+      "Diversity": 0.95,
+      "Coverage": 0.6354,
+      "Silhouette": 0.2019
+    },
+    "LDA": {
+      "NPMI": 0.0339,
+      "Diversity": 0.7333,
+      "Coverage": 1.0,
+      "Silhouette": 0.4207
+    }
+  },
+  {
+    "field": "Computational Biology",
+    "n_docs": 2974,
+    "n_topics_bertopic": 10,
+    "n_topics_lda": 10,
+    "bertopic_source": "stored_db",
+    "BERTopic": {
+      "NPMI": 0.0758,
+      "Diversity": 0.95,
+      "Coverage": 0.6711,
+      "Silhouette": -0.3906
+    },
+    "LDA": {
+      "NPMI": -0.0259,
+      "Diversity": 0.88,
+      "Coverage": 0.9993,
+      "Silhouette": 0.3021
+    }
+  },
+  {
+    "field": "Econometrics",
+    "n_docs": 1822,
+    "n_topics_bertopic": 24,
+    "n_topics_lda": 24,
+    "bertopic_source": "stored_db",
+    "BERTopic": {
+      "NPMI": 0.0306,
+      "Diversity": 0.8708,
+      "Coverage": 0.6767,
+      "Silhouette": 0.2578
+    },
+    "LDA": {
+      "NPMI": -0.0462,
+      "Diversity": 0.9333,
+      "Coverage": 0.9978,
+      "Silhouette": 0.2834
+    }
+  },
+  {
+    "field": "Astrophysics",
+    "n_docs": 2995,
+    "n_topics_bertopic": 35,
+    "n_topics_lda": 35,
+    "bertopic_source": "stored_db",
+    "BERTopic": {
+      "NPMI": 0.1012,
+      "Diversity": 0.8514,
+      "Coverage": 0.7025,
+      "Silhouette": 0.0286
+    },
+    "LDA": {
+      "NPMI": -0.0482,
+      "Diversity": 0.8886,
+      "Coverage": 0.996,
+      "Silhouette": 0.2063
+    }
+  },
+  {
+    "field": "Statistics",
+    "n_docs": 1765,
+    "n_topics_bertopic": 20,
+    "n_topics_lda": 20,
+    "bertopic_source": "stored_db",
+    "BERTopic": {
+      "NPMI": 0.0293,
+      "Diversity": 0.89,
+      "Coverage": 0.732,
+      "Silhouette": 0.1018
+    },
+    "LDA": {
+      "NPMI": -0.1854,
+      "Diversity": 0.945,
+      "Coverage": 1.0,
+      "Silhouette": 0.3158
+    }
+  },
+  {
+    "field": "Condensed Matter",
+    "n_docs": 1816,
+    "n_topics_bertopic": 13,
+    "n_topics_lda": 13,
+    "bertopic_source": "stored_db",
+    "BERTopic": {
+      "NPMI": 0.0386,
+      "Diversity": 0.9308,
+      "Coverage": 0.7489,
+      "Silhouette": -0.0376
+    },
+    "LDA": {
+      "NPMI": -0.0945,
+      "Diversity": 0.8385,
+      "Coverage": 1.0,
+      "Silhouette": 0.3093
+    }
+  },
+  {
+    "field": "High Energy Physics",
+    "n_docs": 1649,
+    "n_topics_bertopic": 8,
+    "n_topics_lda": 8,
+    "bertopic_source": "stored_db",
+    "BERTopic": {
+      "NPMI": 0.146,
+      "Diversity": 0.95,
+      "Coverage": 0.701,
+      "Silhouette": 0.6154
+    },
+    "LDA": {
+      "NPMI": 0.0452,
+      "Diversity": 0.9,
+      "Coverage": 1.0,
+      "Silhouette": 0.4813
+    }
+  },
+  {
+    "field": "Algebraic Geometry",
+    "n_docs": 1923,
+    "n_topics_bertopic": 13,
+    "n_topics_lda": 13,
+    "bertopic_source": "stored_db",
+    "BERTopic": {
+      "NPMI": 0.0708,
+      "Diversity": 0.9077,
+      "Coverage": 0.9225,
+      "Silhouette": 0.6024
+    },
+    "LDA": {
+      "NPMI": -0.1307,
+      "Diversity": 0.9846,
+      "Coverage": 1.0,
+      "Silhouette": 0.3546
+    }
+  },
+  {
+    "field": "Medical Imaging",
+    "n_docs": 1571,
+    "n_topics_bertopic": 4,
+    "n_topics_lda": 4,
+    "bertopic_source": "stored_db",
+    "BERTopic": {
+      "NPMI": 0.0853,
+      "Diversity": 0.95,
+      "Coverage": 0.7148,
+      "Silhouette": 0.363
+    },
+    "LDA": {
+      "NPMI": 0.0554,
+      "Diversity": 0.95,
+      "Coverage": 1.0,
+      "Silhouette": 0.7214
+    }
+  },
+  {
+    "field": "Public Administration",
+    "n_docs": 1239,
+    "n_topics_bertopic": 24,
+    "n_topics_lda": 24,
+    "bertopic_source": "stored_db",
+    "BERTopic": {
+      "NPMI": 0.1095,
+      "Diversity": 0.8917,
+      "Coverage": 0.8184,
+      "Silhouette": 0.4864
+    },
+    "LDA": {
+      "NPMI": 0.0119,
+      "Diversity": 0.8458,
+      "Coverage": 1.0,
+      "Silhouette": 0.3638
+    }
+  },
+  {
+    "field": "Sociology",
+    "n_docs": 1604,
+    "n_topics_bertopic": 31,
+    "n_topics_lda": 31,
+    "bertopic_source": "stored_db",
+    "BERTopic": {
+      "NPMI": 0.0296,
+      "Diversity": 0.8806,
+      "Coverage": 0.6989,
+      "Silhouette": 0.3893
+    },
+    "LDA": {
+      "NPMI": -0.0632,
+      "Diversity": 0.9194,
+      "Coverage": 1.0,
+      "Silhouette": 0.3248
+    }
+  },
+  {
+    "field": "Political Science",
+    "n_docs": 950,
+    "n_topics_bertopic": 8,
+    "n_topics_lda": 8,
+    "bertopic_source": "stored_db",
+    "BERTopic": {
+      "NPMI": 0.0741,
+      "Diversity": 0.9125,
+      "Coverage": 0.6832,
+      "Silhouette": -0.1084
+    },
+    "LDA": {
+      "NPMI": 0.0061,
+      "Diversity": 0.9375,
+      "Coverage": 1.0,
+      "Silhouette": 0.5147
+    }
+  }
+]

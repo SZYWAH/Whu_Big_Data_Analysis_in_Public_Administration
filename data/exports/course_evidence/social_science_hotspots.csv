@@ -1,0 +1,64 @@
+﻿field,topic_id,topic_label,paper_count,trend_status,title_cn,summary_cn
+Political Science,0,0_learning_artificial_intelligence_review,386,衰退期 (Declining),人工智能与全球治理的实证方法转向,2014–2024年间，政治学界利用机器学习与AI模型，针对气候变化、粮食安全等全球挑战进行系统性综述与实证研究，现已进入反思与衰退期。
+Political Science,1,1_covid_health_social_vaccine,125,衰退期 (Declining),新冠疫情下的公共健康与政治传播研究,聚焦新冠疫情期间政府应对、媒体信息传播、公众心理健康与疫苗接种意愿等政治与社会互动议题，2019–2022年集中爆发后热度显著下降。
+Political Science,2,2_energy_hydrogen_storage_renewable,44,衰退期 (Declining),能源转型中的技术路径与治理研究,该方向聚焦可再生能源、储能及氢能等技术在能源系统中的应用，探讨其政策设计与碳减排效果，近十年从技术乐观期转入对现实障碍的系统反思，热度呈下降态势。
+Political Science,3,3_translation_cognitive_provenance_zenodo,24,爆发期 (Surging),政治话语的认知语义与数字溯源范式变迁,依托认知语言学、语义分析与开放科学基础设施（如Zenodo），从传统经典解释转向基于语料库和知识图谱的政治文本溯源与翻译重构。
+Political Science,4,4_environmental_pollution_pfas_plastic,23,平稳演化 (Stable),环境污染物治理的政策与健康效应研究,该方向聚焦PFAS、塑料等新兴污染物的政治回应与健康影响，从传统末端治理转向全生命周期政策评估，融合环境正义与实证健康风险分析，10年间形成稳定研究范式。
+Political Science,5,5_esg_corporate_performance_disclosure,18,平稳演化 (Stable),企业ESG治理与披露的政治经济学研究,该方向从企业社会责任（CSR）研究演变而来，聚焦政治制度、监管环境对企业ESG表现及财务绩效的影响，解决企业责任与公共政策互动的核心问题。
+Political Science,6,6_antimicrobial_resistance_amr_resistant,18,爆发期 (Surging),全球抗生素耐药性治理的范式变迁,从生物医学问题转向全球卫生安全与多边治理，聚焦抗微生物耐药性（AMR）的跨国监测、政策协调与抗生素管理机制，推动政治学与公共卫生的交叉突破。
+Political Science,7,7_obesity_prevalence_global_physical,11,平稳演化 (Stable),全球肥胖流行与健康政策治理研究,基于政治学视角，考察肥胖与代谢疾病在全球各国间的流行态势、影响因素及政策应对，侧重跨国比较与实证分析，过去10年平稳演化。
+Public Administration,0,0_covid_vaccine_cov_sars,187,衰退期 (Declining),新冠疫情下的公共卫生管理与疫苗政策研究,从SARS等呼吸道传染病防控经验演化而来，聚焦政府应急响应、疫苗分配策略及公共卫生体系韧性，旨在解决重大传染病对公共治理能力的挑战。
+Public Administration,1,1_public_governance_implementation_cfir,95,爆发期 (Surging),实施科学的范式变迁：公共服务治理中的政策落地与组织变革,该方向从传统政策执行研究演变而来，借助CFIR等实施科学框架，聚焦护士等一线公共服务者，揭示制度、政治与治理因素如何影响政策在基层的实际实施效果。
+Public Administration,2,2_healthcare_medical_artificial_intelligence,64,平稳演化 (Stable),人工智能驱动的医疗健康管理研究,该方向平稳演化了十年，从早期电子健康记录分析逐步发展到机器学习临床预测与决策支持系统，旨在解决医疗资源配置、诊疗效率优化等公共管理核心问题。
+Public Administration,3,3_cell_tumor_cells_cancer,55,衰退期 (Declining),CAR-T细胞免疫疗法的公共政策与治理研究,该方向聚焦CAR-T等细胞免疫疗法在医疗卫生体系中的政策制定、监管与公平性问题，10年间从技术突破转向治理挑战，现热度下降。
+Public Administration,4,4_disorder_mental_studies_health,52,平稳演化 (Stable),儿童心理健康障碍的流行病学与治疗管理研究,基于实证研究，聚焦儿童抑郁等心理障碍的患病率、报告与治疗，为公共政策制定提供循证依据；近十年呈平稳演化态势。
+Public Administration,5,5_education_learning_genai_students,51,爆发期 (Surging),生成式人工智能驱动的教育范式变迁,从数字化教学工具到生成式AI的爆发式应用，该方向聚焦于GenAI如何重塑教育管理、教学模式及学术治理，回应公共管理学科对技术变革与政策适应的核心追问。
+Public Administration,6,6_cancer_incidence_lung_cancers,49,衰退期 (Declining),癌症发病率与治疗结局的卫生服务管理研究,该热点在公共管理视角下，聚焦癌症发病率、死亡率及化疗等治疗结局，早期源于流行病学与临床数据的整合，近年因政策干预效果评估成熟而热度下降。
+Public Administration,7,7_delivery_drug_nanoparticles_nps,42,平稳演化 (Stable),纳米药物递送系统的公共政策与治理研究,聚焦纳米颗粒、外泌体等载体在临床药物递送中的系统应用，从技术研发转向监管与公平可及性，解决纳米医学产业化与公共管理协同问题。
+Public Administration,8,8_senescence_oxidative_diseases_stress,41,衰退期 (Declining),衰老相关神经退行性疾病的氧化应激与铁死亡机制研究,该聚类围绕氧化应激、炎症、铁死亡及线粒体损伤在神经退行性疾病中的作用展开，近年来随着研究深入，热点热度下降，逐步转向更精细的分子调控与干预策略。
+Public Administration,9,9_gut_microbiota_probiotics_microbiome,40,衰退期 (Declining),肠道微生物组与公共健康管理,曾探索肠道微生物组在公共健康政策中的应用，从益生菌干预技术转向治理评估，但因证据不足与转化瓶颈，近十年热度持续衰退。
+Public Administration,10,10_obesity_diabetes_weight_semaglutide,38,衰退期 (Declining),新型GLP-1药物干预肥胖与糖尿病的公共健康政策研究,该方向聚焦于以司美格鲁肽为代表的GLP-1受体激动剂在治疗肥胖与糖尿病中的政策评估与实证研究，从临床药物应用转向公共治理与健康管理效果分析。
+Public Administration,11,11_energy_emissions_climate_carbon,35,平稳演化 (Stable),能源转型与气候变化治理,聚焦能源系统低碳转型及气候变化应对政策，研究电力市场改革、可再生能源部署及碳排放治理机制，近10年从单一环境规制转向综合社会治理。
+Public Administration,12,12_resistance_antibiotic_antimicrobial_amr,32,平稳演化 (Stable),抗生素耐药性的全球治理与公共政策研究,该方向围绕抗生素耐药性（AMR）这一全球公共卫生危机，从生物医学问题演变为公共管理核心议题，聚焦跨境治理、政策干预及“同一健康”框架下的多部门协同。
+Public Administration,13,13_alzheimer_amyloid_disease_dementia,32,衰退期 (Declining),认知障碍公共治理与健康政策研究,该方向曾聚焦阿尔茨海默病等认知障碍的公共政策响应，包括早期筛查、照护体系与医疗资源分配，但近年来因临床干预进展缓慢和财政压力增大，研究热度进入衰退期。
+Public Administration,14,14_land_cover_agriculture_flood,30,衰退期 (Declining),土地利用/土地覆盖变化与气候变化适应研究,该方向从早期遥感监测土地覆盖演变而来，聚焦农业、森林与洪水灾害在气候变化下的响应机制，近年因技术成熟而进入衰退期。
+Public Administration,15,15_vitamin_iron_supplementation_metals,26,平稳演化 (Stable),微量元素补充与健康风险：营养缺乏与重金属暴露的交叉研究,聚焦维生素、铁等必需微量营养素补充对健康的影响，同时关注重金属暴露风险，从摄入不足与过量双重视角探讨公共健康问题，10年来研究平稳深化。
+Public Administration,16,16_drug_discovery_models_gene,23,爆发期 (Surging),基因-知识图谱驱动的药物发现范式变迁,基于基因组、KEGG通路与图神经网络（TxGNN）等数据库模型，近十年药物发现从靶点筛选转向系统生物学数据驱动，形成新药研发关键突破。
+Public Administration,17,17_microplastics_microplastic_exposure_pfas,23,平稳演化 (Stable),塑料与新兴污染物（微塑料、PFAS）的环境暴露及公共管理应对,该方向聚焦微塑料、PFAS等塑料衍生污染物的环境暴露评估与健康效应，从早期塑料污染认知逐步演化至公共管理中风险规制与包装治理政策研究。
+Public Administration,18,18_compounds_anti_inflammatory_antioxidant,22,平稳演化 (Stable),药用植物酚类化合物的抗炎抗氧化机制与疾病干预研究,基于传统药用植物活性成分筛选，聚焦酚类化合物（如槲皮素）的抗炎与抗氧化作用，系统揭示其在慢性疾病干预中的药理学机制，为公共健康管理提供循证依据。
+Public Administration,19,19_llms_language_models_large,22,衰退期 (Declining),大语言模型在公共管理中的任务应用与实证研究,该方向源于自然语言处理技术的快速发展，聚焦于ChatGPT等大语言模型在医疗、政务等公共管理场景中的任务执行能力，探讨其替代传统人工处理的可行性与局限，目前已进入应用反思与边界探索的衰退期。
+Public Administration,20,20_iot_smart_cities_edge,16,平稳演化 (Stable),智慧城市治理中的物联网与边缘计算应用,从早期智慧城市技术试点，演变为依托物联网与边缘网络优化城市公共服务、提升治理效率的成熟实证研究方向。
+Public Administration,21,21_sepsis_shock_septic_ecmo,16,衰退期 (Declining),脓毒症与休克管理的循证指南及ECMO应用研究,基于临床证据的脓毒症复苏与ECMO支持治疗指南的制定与优化，近年因技术成熟而研究热度下降。
+Public Administration,22,22_liver_masld_resmetirom_mash,12,平稳演化 (Stable),代谢性脂肪性肝病（MASLD）的公共政策与管理研究,过去十年，该方向伴随NAFLD向MASLD的命名更新及新药Resmetirom上市，聚焦于疾病负担评估、药物可及性及公共卫生干预策略，从流行病学数据向循证治理平稳演化。
+Public Administration,23,23_osteoporosis_fractures_fracture_hip,11,平稳演化 (Stable),骨质疏松性骨折的临床管理与药物治疗指南研究,聚焦骨质疏松及骨折的循证管理策略，从早期风险评估向规范化药物治疗与临床指南的优化实施平稳演进，解决骨健康干预的标准化与效果差异问题。
+Sociology,0,0_artificial_intelligence_human_ethical,158,衰退期 (Declining),人工智能的社会伦理与信任研究,围绕人工智能系统与人类交互中的伦理困境、信任机制及关怀实践展开，基于早期AI技术扩散，近年因技术成熟度与政策规范性提升而进入研究衰退期。
+Sociology,1,1_climate_change_urban_energy,138,衰退期 (Declining),全球气候变化的社会-环境可持续转型研究,从早期单一的气候影响评估，演变为整合城市、能源、土地、政策等多维度的社会-生态系统适应性研究，当前热度下降，进入反思与整合阶段。
+Sociology,2,2_digital_learning_education_business,108,衰退期 (Declining),数字化教育与循环经济商业创新研究,该方向源于在线教育技术与商业模式的融合，后延伸至数字化供应链与循环经济交叉领域，近年因技术饱和与政策转向而进入衰退期。
+Sociology,3,3_covid_pandemic_loneliness_health,65,衰退期 (Declining),新冠疫情期间的社会隔离、孤独感与心理健康效应,聚焦新冠疫情引发的社交隔离对个体孤独感与心理困扰的冲击，从突发公共卫生事件下的应急调查，逐步演化至长期社会心理效应评估，当前研究热度随疫情缓解而衰退。
+Sociology,4,4_qualitative_implementation_methods_health,62,衰退期 (Declining),定性实施方法与循证健康研究,该方向曾将定性研究、德尔菲法与实施科学框架结合，用于探索健康干预措施的落地机制。近年来因方法成熟与替代范式兴起，相关研究热度持续下降。
+Sociology,5,5_esg_sustainability_environmental_corporate,51,衰退期 (Declining),企业环境社会责任与绿色信息披露研究,该方向源于CSR理论向ESG框架的演化，聚焦企业环境绩效、绿色清洗与披露质量间的矛盾，近年来因标准趋同与政策饱和而进入衰退期。
+Sociology,6,6_political_right_liberal_far,42,爆发期 (Surging),右翼民粹主义与民主危机的范式变迁,聚焦2010年代后全球右翼政党崛起、难民危机激化及自由主义秩序动摇，揭示极右政治如何通过反移民、反建制策略重塑民主生态与政治极化格局。
+Sociology,7,7_students_learning_education_literacy,37,平稳演化 (Stable),人工智能赋能的适应性学习反馈与教学法研究,该方向从传统教育反馈与个性化学习理论演变而来，聚焦利用人工智能技术实现对学生学习的实时、智能反馈，解决大规模教育中个性化教学支持不足的底层科学问题。
+Sociology,8,8_statistical_validity_model_fit,36,平稳演化 (Stable),结构方程模型与测量效度研究,聚焦社会学定量研究中结构方程模型（SEM）的模型拟合、效度评估与统计方法优化，解决测量工具与理论模型间匹配验证的底层科学问题，近十年呈平稳演化态势。
+Sociology,9,9_language_linguistic_translation_linguistics,36,爆发期 (Surging),超语实践与数字交际的范式变迁,过去10年，随着数字技术与多语交际的普及，语言研究从单一语言结构转向超语实践（translanguaging），聚焦在线语境下语言、翻译与语用行为的动态融合。
+Sociology,10,10_marketing_brand_consumer_influencer,30,平稳演化 (Stable),数字消费与虚拟影响者研究,聚焦社交媒体时代下，品牌营销从传统广告向虚拟影响者（如AI生成网红）演变，探讨消费者信任、购买意向及其对虚拟身份的认同机制。
+Sociology,11,11_racism_healthcare_health_black,27,平稳演化 (Stable),结构性种族主义与健康不平等,基于社会学实证研究，系统揭示种族主义作为社会结构如何通过制度化歧视与污名化机制持续影响少数族裔健康差异，该方向历经十年平稳演化，已形成成熟的交叉研究范式。
+Sociology,12,12_food_agricultural_extension_agriculture,25,平稳演化 (Stable),农业食品系统与生物安全的社会网络研究,该方向从传统的农业技术推广与农药使用研究，演变为关注综合病虫害管理（IPM）及生物安全中的多主体协作与制度治理，解决农业可持续性与公共健康的社会学底层问题。
+Sociology,13,13_mental_health_disorders_youth,24,衰退期 (Declining),青少年心理健康的社会决定因素研究,基于社会流行病学视角，探究家庭、学校、同伴等环境因素对青少年焦虑、抑郁、自杀风险的累积效应，该方向在2010年代中期达峰值后因方法饱和而进入衰退期。
+Sociology,14,14_innovation_china_policy_industrial,23,衰退期 (Declining),中国经济主权与产业创新政策研究,该方向从全球创新网络与产业政策协同研究演变而来，聚焦国家主权、经济制裁对工业创新与金融安全的影响，近年热度下降。
+Sociology,15,15_media_social_content_location,22,平稳演化 (Stable),社交媒体虚假信息与网络传播研究,聚焦社交媒体平台中虚假信息的生成、扩散与影响机制，结合用户网络、位置数据与新闻内容，研究10年间从早期社交网络分析到 misinformation 治理的平稳演化。
+Sociology,16,16_fertility_family_child_gender,22,平稳演化 (Stable),性别化家庭分工与生育行为研究,聚焦性别角色、家务育儿分配与就业关系对生育决策的影响，在10年间从传统性别分工理论向双职工家庭平等化机制平稳演进，核心解决低生育率与性别不平等耦合的社会学问题。
+Sociology,17,17_cell_cryo_patients_molecular,21,平稳演化 (Stable),冷冻电镜驱动的肿瘤细胞分子机制与新辅助治疗研究,近十年，冷冻电镜技术突破使研究者得以在近原子分辨率下观察肿瘤细胞内的分子结构，并解析新辅助治疗前后癌细胞与微环境的动态变化，推动从形态病理学向精准分子机制研究的转型。
+Sociology,18,18_mortality_age_years_risk,20,平稳演化 (Stable),全球结核病年龄别死亡率与疾病负担研究,基于全球结核病死亡与发病数据，分析不同年龄组的疾病负担及风险因素，揭示老龄化背景下结核病的流行病学演变规律。
+Sociology,19,19_axial_void_tang_authors,18,爆发期 (Surging),学术文献结构空洞的六边形轴向识别范式,近十年从传统引文网络与共词分析演化而来，利用六边形网格与轴向编码识别文献数据库中的类型空白与出处缺失，揭示知识生产中的结构性空洞。
+Sociology,20,20_migration_migrants_australia_mobility,17,爆发期 (Surging),移民家庭资本与阶级流动的范式变迁,近十年从传统同化研究转向关注移民家庭内部经济、文化、社会资本的代际传递，以及跨国流动性对澳大利亚社会阶层重构的深层影响。
+Sociology,21,21_tourism_heritage_hospitality_niche,17,平稳演化 (Stable),旅游与文化遗产体验的社会学研究,聚焦旅游、遗产和居民体验的互动关系，在平稳演化中深化了对小众旅游、代际差异及文化消费行为的实证理解。
+Sociology,22,22_job_employee_work_working,16,平稳演化 (Stable),工作-家庭平衡与员工福祉研究,该方向聚焦于工作与家庭角色冲突对员工幸福感与工作满意度的长期影响，在平稳演化中持续关注边界管理、社会支持及心理福祉的实证机制。
+Sociology,23,23_metaverse_urban_gamification_virtual,16,平稳演化 (Stable),元宇宙与游戏化城市研究,该方向融合虚拟现实、智慧城市与游戏化设计，探讨数字技术如何重塑城市空间体验，并促进城市学习与互动，属于成熟稳定的跨学科研究方向。
+Sociology,24,24_knowledge_sociology_arctic_hutsuls,16,平稳演化 (Stable),北极与喀尔巴阡原住民的实践知识与社会道德研究,该方向从传统原住民知识记录演变而来，结合 phronesis 概念，系统探讨北极及胡楚尔等边缘族群在现代化进程中的道德认知与地方性知识体系。
+Sociology,25,25_media_screen_use_cyberbullying,14,平稳演化 (Stable),青少年数字媒体使用与心理健康关系研究,该方向聚焦智能手机及屏幕媒体对青少年心理健康、网络欺凌及成瘾行为的影响，10年间从早期媒介接触问题演变为探究数字技术与心理社会适应机制的成熟领域。
+Sociology,26,26_blockchain_technology_governance_trust,14,衰退期 (Declining),区块链技术的社会信任治理与供应链应用研究,该热点源于区块链技术在金融领域的突破，后转向社会治理与供应链信任机制，探讨去中心化系统如何重构证书验证、安全交易中的社会信任关系，现属衰退期。
+Sociology,27,27_stem_gender_faculty_women,14,平稳演化 (Stable),STEM领域女性学者的职业留存与性别差异研究,该方向聚焦STEM学术环境中女性教职人员的结构性障碍与留存机制，从早期性别平等呼吁演变为系统分析“管道泄漏”效应、隐性偏见及制度干预策略。
+Sociology,28,28_sport_physical_activity_reds,12,平稳演化 (Stable),青少年运动员相对能量缺乏症（REDs）及其体能健康共识研究,聚焦青少年运动员因能量摄入不足导致的生理与运动表现问题，近十年通过多学科实证研究形成标准化评估与干预共识，推动运动医学与青少年体育健康管理的实践融合。
+Sociology,29,29_tate_sex_male_masculinity,10,平稳演化 (Stable),男性气质与性别化技术的社会学研究,聚焦机器人技术如何重构男性气质与性别权力关系，探讨技术设计、人机交互中性别角色的演变，揭示男性身份在数字化时代面临的挑战与重塑。
+Sociology,30,30_dementia_older_participation_adults,10,平稳演化 (Stable),老年痴呆症的社会照护与生活质量研究,聚焦痴呆症老年人的社会参与、照护成本、认知功能及睡眠等变量，探讨长期照护模式对家庭与社会的可持续影响，十年间平稳深化实证分析。

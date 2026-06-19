@@ -1,0 +1,7 @@
+BERTopic vs LDA summary
+fields: 13
+avg_NPMI: BERTopic=0.0664, LDA=-0.0407
+avg_Coverage: BERTopic=0.7234, LDA=0.9993
+avg_Silhouette: BERTopic=0.1888, LDA=0.3709
+
+Note: the comparison is mixed. BERTopic is not strictly better on every metric.

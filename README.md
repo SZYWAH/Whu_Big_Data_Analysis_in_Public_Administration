@@ -1,6 +1,15 @@
 # 基于 NLP 与大语言模型的网络学术大数据分析框架
 
+[GitHub 主页](https://github.com/SZYWAH) · [核心功能](#核心功能) · [科研热点桌面工作台](https://github.com/SZYWAH/research-hotspots-desktop)
+
 本项目面向公共管理大数据课程论文场景，构建了一套网络学术大数据分析流程。系统从 arXiv 与 OpenAlex 获取论文数据，完成清洗去重、BERTopic 研究热点识别、LDA 方法对比、LLM 中文热点命名与综述生成，并通过 Streamlit 提供可视化交互界面。
+
+## 项目概况
+
+- 类型：公共管理大数据课程研究与方法实验。
+- 技术栈：Python、Streamlit、MySQL、BERTopic、LDA 与 DeepSeek API。
+- 交付方式：源码、实验流程与结果文件；当前未发布 GitHub Release。
+- 相关项目：[research-hotspots-desktop](https://github.com/SZYWAH/research-hotspots-desktop) 面向本地桌面使用。本仓库保留课程研究、方法对比和多源采集流程。
 
 ## 项目定位
 
@@ -76,3 +85,4 @@ streamlit run app17.py
 - BERTopic 并非在所有指标上绝对优于 LDA；本项目选择 BERTopic，主要因为它更适合发现可解释研究热点。
 - LLM 综述生成重点覆盖公共管理、社会学、政治学三个公共管理相关领域，并不声称覆盖全部学科。
 - 如果公开上传仓库，建议确认是否需要保留 `data/exports/` 下的生成报告和 `assets/fonts/` 下的字体文件。
+
